@@ -1,0 +1,11 @@
+User_ID,Age,Screen_Time,Battery_Drain,Apps_Installed,Data_Usage,RAM_Usage,Steps_Daily,Income_Bracket,User_Type
+1,25,6.5,2100,45,1200,3200,8000,2,Power_User
+2,19,8.2,2800,85,2500,4100,3500,1,Power_User
+3,45,3.1,1200,20,500,1800,12000,3,Basic_User
+4,32,4.5,1600,35,800,2400,6000,2,Mid_User
+5,28,7.0,2400,60,1800,3800,4500,1,Power_User
+6,55,2.0,900,15,300,1400,15000,3,Basic_User
+7,22,5.8,1900,50,1100,2900,9000,2,Mid_User
+8,38,4.0,1500,28,700,2100,7500,2,Mid_User
+9,21,9.5,3100,110,3200,4500,2500,1,Power_User
+10,50,2.5,1000,18,400,1600,11000,3,Basic_User
